@@ -1,0 +1,6 @@
+git commit #faz o commit
+git status #verifica os arquivos que irão commitar
+git add . #adiciona todos os arquivos para o commit
+git add <nomedoarquivo> #adiciona o nomedoarquivo
+
+git commit -m "%d" #faz commit com uma mensagem do pq.
