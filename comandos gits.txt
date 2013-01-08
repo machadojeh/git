@@ -7,3 +7,4 @@ git commit -m "%d" #faz commit com uma mensagem do pq.
 
 git remote add origin httpwwwkfldjaldf #adiciona aonde ele temq dar commit.
 git push -u origin master #manda pro fucking github (no caso).
+git pull origin master #ele baixa os arquivos do github.
