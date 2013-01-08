@@ -4,3 +4,5 @@ git add . #adiciona todos os arquivos para o commit
 git add <nomedoarquivo> #adiciona o nomedoarquivo
 
 git commit -m "%d" #faz commit com uma mensagem do pq.
+
+git remote add origin httpwwwkfldjaldf #adiciona aonde ele temq dar commit.
